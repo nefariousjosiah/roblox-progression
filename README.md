@@ -16,7 +16,7 @@ https://github.com/nefariousjosiah/roblox-progression/assets/148295938/2e461e52-
 
 
 # 6 - 18 - 2024
-Added key, padlock and door which unlocks once you interact with the Key.
+Added key, padlock and door which unlocks once you interact with the Key. **EDIT** Since then i've added an "You've unlocked it" Pop up for unlocking the door.
 
 
 ![giphy(3)](https://github.com/nefariousjosiah/roblox-progression/assets/148295938/049d2231-7f02-446a-bcec-e0a0ee77a948)
