@@ -15,3 +15,9 @@ Added a Isometric camera, testing a more modern Resident Evil style camera.
 https://github.com/nefariousjosiah/roblox-progression/assets/148295938/2e461e52-6284-44c2-b8f2-a4f5381b82ba
 
 
+# 6 - 18 - 2024
+Added key, padlock and door which unlocks once you interact with the Key.
+
+
+![giphy(3)](https://github.com/nefariousjosiah/roblox-progression/assets/148295938/049d2231-7f02-446a-bcec-e0a0ee77a948)
+
