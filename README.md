@@ -21,3 +21,12 @@ Added key, padlock and door which unlocks once you interact with the Key. **EDIT
 
 ![giphy(3)](https://github.com/nefariousjosiah/roblox-progression/assets/148295938/049d2231-7f02-446a-bcec-e0a0ee77a948)
 
+
+# 6 - 23 - 2024
+Made another key and door, only works with the specific key.
+
+
+https://github.com/nefariousjosiah/roblox-progression/assets/148295938/2819244a-a67d-4dc5-9cfb-ec4ebf916d83
+
+
+
