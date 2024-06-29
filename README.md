@@ -31,6 +31,7 @@ https://github.com/nefariousjosiah/roblox-progression/assets/148295938/2819244a-
 
 # 6 - 29 - 2024
 Removed the third person view, created a first person view instead (similar to Resident Evil 7).
+
 **CURRENTLY THERE IS A BUG WHEN PLAYING WITH THIS CAMEREA ON MOBILE, WILL BE FIXED**
 
 
