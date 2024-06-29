@@ -29,4 +29,15 @@ Made another key and door, only works with the specific key.
 https://github.com/nefariousjosiah/roblox-progression/assets/148295938/2819244a-a67d-4dc5-9cfb-ec4ebf916d83
 
 
+# 6 - 29 - 2024
+Removed the third person view, created a first person view instead (similar to Resident Evil 7).
+**CURRENTLY THERE IS A BUG WHEN PLAYING WITH THIS CAMEREA ON MOBILE, WILL BE FIXED**
+
+
+
+https://github.com/nefariousjosiah/roblox-progression/assets/148295938/7f92fefb-da5b-4d4f-866b-157039d591b9
+
+
+
+
 
