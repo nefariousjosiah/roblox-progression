@@ -9,7 +9,7 @@ Imported model to roblox
 
 
 # 6 - 16 - 2024
-Added a Isometric camera, testing a more modern Resident Evil style camera.
+Added a Isometric camera, testing a more classic Resident Evil style camera.
 
 
 https://github.com/nefariousjosiah/roblox-progression/assets/148295938/2e461e52-6284-44c2-b8f2-a4f5381b82ba
